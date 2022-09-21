@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.quanmx.test.MathUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in com.quanmx.test.MathUtilsTest
+testRightArgumentAndReturnsGoodResult  Time elapsed: 0.033 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <120> but was: <24>
+	at com.quanmx.test.MathUtilsTest.testRightArgumentAndReturnsGoodResult(MathUtilsTest.java:10)
+
